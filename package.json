@@ -62,7 +62,7 @@
     "remark-html": "^13.0.1",
     "remark-math": "3",
     "remark-parse": "^8.0.3",
-    "sass": "^1.44.0",
+    "sass": "^1.79.0",
     "semver": "^7.3.5",
     "styled-components": "^5.3.5"
   },
